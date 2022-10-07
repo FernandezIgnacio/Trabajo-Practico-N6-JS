@@ -1,6 +1,11 @@
 @font-face {
-    font-family: 'Liberation serif';
-    src: url('/FUENTES/LiberationSerif-Regular.ttf');
+    font-family: 'Liberation';
+    src: url('fuentes/LiberationSerif-Regular.ttf');
     font-style: normal;
     font-weight: 400;
+}
+
+.punto{
+    font-family: 'Liberation';
+    font
 }
