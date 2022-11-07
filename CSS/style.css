@@ -1,16 +1,19 @@
-@font-face {
-    font-family: 'Liberation';
+@font-face { 
+    /* Añade la fuente "Liberation Serif" para ser utilizada en los HTML */
+    font-family: 'Liberation'; 
     src: url('fuentes/LiberationSerif-Regular.ttf');
     font-style: normal;
     font-weight: 400;
 }
-
-.punto{
+ 
+.punto{ 
+    /* Se declara la fuente "Liberation" y el tamaño para los puntos */
     font-family: 'Liberation';
     font-size: 20px;
 }
 
 .respuesta{
+    /* Se declara la fuente "Times New Roman" y el tamaño para las respuestas */
     font-family: 'Times New Roman';
     font-size: 12px;
 }
